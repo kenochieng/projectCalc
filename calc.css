@@ -1,5 +1,39 @@
+
 #container{
-    background-color:aquamarine;
-    height: 500px;
-    width: 400px;
+    background-color:rgb(11, 241, 80);
+    height: 550px;
+    width: 450px;
+    
+    margin-left: 35%;
+    border-radius: 5px;
+
 }
+.title{
+    margin-bottom: 10px;
+    text-align:center;
+    width: 210px;
+    color:green;
+    border: solid black 2px;
+    }
+
+    input[type="button"]
+    {
+    background-color:green;
+    color: black;
+    border: solid black 2px;
+    width:100%
+    }
+
+    input[type="text"]
+    {
+    background-color:white;
+    border: solid black 2px;
+    width:100%
+    }
+
+    body{
+        text-align:center;
+        text-decoration: underline;
+        text-shadow: 10px red;
+    }
+
